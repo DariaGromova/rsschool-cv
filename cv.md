@@ -4,16 +4,16 @@
 ### Contact information:
 Phone: +995595298140  
 E-mail: gromova.daria.93@gmail.com  
-Telegram: @daria_gromova_93
+Telegram: @daria_gromova_93  
 ___
 ### About myself:
-I want to be a Frontend Developer!
+I want to be a Frontend Developer!  
 ___
 ### Code example:
-*No yet...*
+*No yet...*  
 ___
 ### Work experience:
-*No yet...*
+*No yet...*  
 ___
 ### Language:
 English - A1

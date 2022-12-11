@@ -1,1 +1,0 @@
-https://DariaGromova.github.io/rsschool-cv/
